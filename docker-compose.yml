@@ -1,0 +1,5 @@
+default:
+  build: .
+  volumes:
+    - .:/source-code
+  command: /bin/bash -c "npm update && npm install && nodemon --legacy-watch index"

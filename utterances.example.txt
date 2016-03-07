@@ -1,0 +1,215 @@
+mlu @ +t*1* -t%mor
+Sun Mar 06 16:20:22 2016
+mlu (20-Jan-2016) is conducting analyses on:
+  ONLY speaker main tiers matching: *1*;
+****************************************
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O130nKMcM_Q1.cha>
+MLU for Speaker: *130:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 2, words = 32
+	Ratio of words over utterances = 16.000
+	Standard deviation = 4.000
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O130nKMcM_Q5.cha>
+MLU for Speaker: *130:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 1, words = 13
+	Ratio of words over utterances = 13.000
+	Standard deviation = N/A
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O130nKMcM_Q8.cha>
+MLU for Speaker: *130:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 6, words = 73
+	Ratio of words over utterances = 12.167
+	Standard deviation = 6.067
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O131nKMcM_Q1.cha>
+MLU for Speaker: *131:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 8, words = 82
+	Ratio of words over utterances = 10.250
+	Standard deviation = 3.345
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O131nKMcM_Q5.cha>
+MLU for Speaker: *131:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 7, words = 83
+	Ratio of words over utterances = 11.857
+	Standard deviation = 5.462
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O131nKMcM_Q8.cha>
+MLU for Speaker: *131:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 9, words = 125
+	Ratio of words over utterances = 13.889
+	Standard deviation = 10.246
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O132nKMcM_Q1.cha>
+MLU for Speaker: *132:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 6, words = 71
+	Ratio of words over utterances = 11.833
+	Standard deviation = 5.080
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O132nKMcM_Q5.cha>
+MLU for Speaker: *132:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 8, words = 87
+	Ratio of words over utterances = 10.875
+	Standard deviation = 5.555
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O132nKMcM_Q8.cha>
+MLU for Speaker: *132:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 14, words = 118
+	Ratio of words over utterances = 8.429
+	Standard deviation = 5.206
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O133nKMcM_Q1.cha>
+MLU for Speaker: *133:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 3, words = 56
+	Ratio of words over utterances = 18.667
+	Standard deviation = 9.286
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O133nKMcM_Q5.cha>
+MLU for Speaker: *133:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 4, words = 27
+	Ratio of words over utterances = 6.750
+	Standard deviation = 2.165
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O133nKMcM_Q8.cha>
+MLU for Speaker: *133:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 7, words = 68
+	Ratio of words over utterances = 9.714
+	Standard deviation = 6.204
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O134nKMcM_Q1.cha>
+MLU for Speaker: *134:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 5, words = 84
+	Ratio of words over utterances = 16.800
+	Standard deviation = 9.908
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O134nKMcM_Q5.cha>
+MLU for Speaker: *134:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 3, words = 50
+	Ratio of words over utterances = 16.667
+	Standard deviation = 6.600
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O134nKMcM_Q8.cha>
+MLU for Speaker: *134:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 9, words = 102
+	Ratio of words over utterances = 11.333
+	Standard deviation = 8.083
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O135nKMcM_Q1.cha>
+MLU for Speaker: *135:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 3, words = 43
+	Ratio of words over utterances = 14.333
+	Standard deviation = 4.989
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O135nKMcM_Q5.cha>
+MLU for Speaker: *135:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 8, words = 93
+	Ratio of words over utterances = 11.625
+	Standard deviation = 6.927
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O135nKMcM_Q8.cha>
+MLU for Speaker: *135:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 5, words = 73
+	Ratio of words over utterances = 14.600
+	Standard deviation = 13.245
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O136nKMcM_Q1.cha>
+MLU for Speaker: *136:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 4, words = 58
+	Ratio of words over utterances = 14.500
+	Standard deviation = 5.590
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O136nKMcM_Q5.cha>
+MLU for Speaker: *136:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 2, words = 40
+	Ratio of words over utterances = 20.000
+	Standard deviation = 2.000
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O136nKMcM_Q8.cha>
+MLU for Speaker: *136:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 14, words = 118
+	Ratio of words over utterances = 8.429
+	Standard deviation = 5.328
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O137nKMcM_Q1.cha>
+MLU for Speaker: *137:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 7, words = 61
+	Ratio of words over utterances = 8.714
+	Standard deviation = 5.257
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O137nKMcM_Q5.cha>
+MLU for Speaker: *137:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 8, words = 111
+	Ratio of words over utterances = 13.875
+	Standard deviation = 9.020
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O137nKMcM_Q8.cha>
+MLU for Speaker: *137:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 8, words = 82
+	Ratio of words over utterances = 10.250
+	Standard deviation = 8.555
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O138nKMcM_Q1.cha>
+MLU for Speaker: *138:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 7, words = 61
+	Ratio of words over utterances = 8.714
+	Standard deviation = 3.452
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O138nKMcM_Q5.cha>
+MLU for Speaker: *138:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 6, words = 43
+	Ratio of words over utterances = 7.167
+	Standard deviation = 3.023
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O138nKMcM_Q8.cha>
+MLU for Speaker: *138:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 16, words = 152
+	Ratio of words over utterances = 9.500
+	Standard deviation = 4.677
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O139nKMcM_Q1.cha>
+MLU for Speaker: *139:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 10, words = 105
+	Ratio of words over utterances = 10.500
+	Standard deviation = 3.612
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O139nKMcM_Q5.cha>
+MLU for Speaker: *139:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 12, words = 114
+	Ratio of words over utterances = 9.500
+	Standard deviation = 6.665
+
+From file <c:\Users\Amanda\Google Drive\Interviews\Native Speakers\French\Transcripts\O139nKMcM_Q8.cha>
+MLU for Speaker: *139:
+  MLU (xxx, yyy and www are EXCLUDED from the utterance and morpheme counts):
+	Number of: utterances = 16, words = 128
+	Ratio of words over utterances = 8.000
+	Standard deviation = 3.021
+
